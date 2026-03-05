@@ -1,0 +1,18 @@
+{
+  "rewrites": [
+    { "source": "/full-video", "destination": "/index.html" },
+    { "source": "/naughty-video", "destination": "/index.html" },
+    { "source": "/free-video", "destination": "/index.html" },
+    { "source": "/only-fan", "destination": "/index.html" },
+    { "source": "/hd-video", "destination": "/index.html" },
+    { "source": "/viral-clip", "destination": "/index.html" },
+    { "source": "/leaked", "destination": "/index.html" },
+    { "source": "/trending", "destination": "/index.html" },
+    { "source": "/watch-now", "destination": "/index.html" },
+    { "source": "/private-video", "destination": "/index.html" },
+    { "source": "/exclusive", "destination": "/index.html" },
+    { "source": "/raw-video", "destination": "/index.html" },
+    { "source": "/tiktok-viral", "destination": "/index.html" },
+    { "source": "/reels-trending", "destination": "/index.html" }
+  ]
+}
